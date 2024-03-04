@@ -1,0 +1,19 @@
+{
+    "packageName": "Pixoo 64 Driver",
+    "minimumHEVersion": "2.2.1",
+    "author": "Tim Dodd",
+    "version": "1.0.0",
+    "dateReleased": "2024-03-04",
+    "documentationLink": "https://github.com/timothydodd/hubitat-pixoo64/blob/main/README.md",
+    "licenseFile": "https://github.com/timothydodd/hubitat-pixoo64/blob/main/LICENSE",
+    "releaseNotes": "This Release you can only turn on and off the Pixoo 64",
+    "drivers": [
+        {
+            "id": "28ebf137-6494-4ff1-8773-4b59d5ae218e",
+            "name": "Pixoo 64 Driver",
+            "namespace": "robododd",
+            "location": "https://github.com/timothydodd/hubitat-pixoo64/blob/main/pixoo64-driver.groovy",
+            "required": true
+        }
+    ]
+}
